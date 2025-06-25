@@ -43,7 +43,7 @@ This repo reflects **daily tasks**, **self-imposed challenges**, and **milestone
 
 ---
 
-## 📌 Goals (2024–2025)
+## 📌 Goals (2025–2026)
 
 - [x] Master Python core & OOP  
 - [x] Build multi-file, class-based tools  
